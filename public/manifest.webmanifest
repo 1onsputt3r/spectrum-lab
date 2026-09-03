@@ -1,0 +1,19 @@
+{
+  "name": "光譜探究工具 Spectrum Lab",
+  "short_name": "Spectrum Lab",
+  "description": "學生用光譜影像、波長校正與 FWHM 分析工具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4faf9",
+  "theme_color": "#0c777b",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
